@@ -1,0 +1,65 @@
+ Anotações Everis – Java
+
+
+Estrutura de dados e Algoritmos
+
+Estrutura de dados é uma estrutura organizada de dados na memória de um computador ou em qualquer outro dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+Algoritmo: conjunto de instruções ordenadas e estruturadas com o objetivo de realizar uma tarefa ou operação específica.
+
+Em estrutura de dados é necessário saber como realizar um determinado conjunto de operações básicas. Ex: inserir dados, excluir, localizar um elemento, percorrer todos os itens da estrutura para visualização, classificar dados.
+
+Principais estruturas:
+
+Vetores e Matrizes
+Registro
+Lista
+Pilha
+Fila
+Árvore
+Tabela Hash
+Grafos
+
+Vetores e Matrizes
+
+Vetores e Matrizes/Arrays são estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em algum algoritmo.
+
+Um vetor é uma sequência de variáveis de mesmo tipo e referenciadas por um nome único.
+Uma matriz ou Array multidimensional é um vetor de vetores. Possui duas ou mais dimensões.
+
+
+Registro
+
+É uma estrutura (tabela) que fornece um formato especializado para armazenar informações na memória. Diferente dos Arrays, o Registro permite armazenar mais de um tipo de dados.
+
+
+
+
+
+
+
+Listas
+
+Estrutura de dados que armazenam dados de um determinado tipo em uma ordem específica. A diferença entre listas e Arrays é que as listas possuem tamanho ajustável, enquanto que os Arrays possuem tamanho fixo. Não é necessário inicializar a Lista declarando seu tamanho. Ela vai se ajustando conforme vai recebendo dados.
+
+Lista Ligada: nessas estruturas, existem o que é chamado de nó onde esse elemento conhece o valor que está em seu interior e também a próximo. Por isso, são chamados assim, pois os nós são amarrados com essa indicação de qual é o próximo nó.
+
+Lista duplamente Ligada: é uma variação das listas ligadas. A diferença é que a Duplamente Ligada é Bidirecional. É possível navegar para trás e para frente dentro dessa lista. Na Lista Ligada, os nós só sabem quem está a sua frente. Já na Dupla, eles conhecem seu sucessor e seu antecessor.
+
+
+Árvores
+
+É uma estrutura que organiza seus elementos de forma hierárquica onde existe um elemento que fica no topo e é chamado de raiz e existem os elementos subordinados a ele que são chamados nós ou folhas.
+
+Por exemplo: os números 2, 8 12, 15, 20, 25, 30. Nessa estrutura, ele vai procurar direto na raiz que no caso é o 15, que está no meio. Se não achar, ele vai para a próxima, o 8 e o 25, que estão no meio também e senão, analisa os números restantes.
+
+
+Tabela Hash
+
+Ou tabela de dispersão ou espalhamento é uma estrutura especial que associa chaves de pesquisa a valores.
+
+
+Grafo
+
+Estruturas que permitem programar a relação entre objetos.
+
+Os objetos são os vértices do grafo. Os relacionamentos são as arestas.
